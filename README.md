@@ -82,7 +82,7 @@ Full Adder Circuit:-
 ### Output:
 Half Adder Circuit:-
 
-![image](https://github.com/Sunilkumar074/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152241049/14b1d92a-1f20-475e-aa68-3ff3b5e36d05)
+![image](https://github.com/Sunilkumar074/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152241049/d20b5356-2a0a-44fd-975d-8e1596b7a84e)
 
 Full Adder Circuit:-
 
