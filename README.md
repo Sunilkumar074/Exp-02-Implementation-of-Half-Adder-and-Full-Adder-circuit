@@ -1,4 +1,4 @@
-NAME:M.SRIKARAN<br>
+NAME:SUNIL KUMAR P.B.<br>
 REFERENCE NUMBER:212223040213
 # Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
